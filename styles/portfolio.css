@@ -160,3 +160,21 @@ main section{
 .resume hr{
     margin: 30px 5px;
 }
+/* footer style */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+.footer-colum{
+    width: 50%;
+}
+
+footer input[type="text"] [type="Email"]{
+    height: 60px;
+    border-radius: 5px;
+    background-color: #FFF8F3;
+    width: 100%;
+}
+
+
